@@ -1,5 +1,7 @@
 # Graph Recurrent Neural Networks (GraphRNN)
 
+Authors: Maya Ravichandran, Mark Kodh, Nikhil Khatri, Taniya Das
+
 Reproducing results from the paper 
 ["GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Model"](https://arxiv.org/abs/1802.08773).
 
