@@ -1,9 +1,10 @@
 # Graph Recurrent Neural Networks (GraphRNN)
 
-Authors: Maya Ravichandran, Mark Kodh, Nikhil Khatri, Taniya Das
+Authors: Maya Ravichandran, Mark Koch, Nikhil Khatri, Taniya Das
 
-Reproducing results from the paper 
-["GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Model"](https://arxiv.org/abs/1802.08773).
+Reproducibility experiments for the [GraphRNN](https://arxiv.org/abs/1802.08773) model, evaluation on expanded metrics, an ablation of study of breadth-first search traversal, and novel extension for generation of directed acyclic graphs.
+
+Results published in this [report](https://arxiv.org/abs/2307.14109) (accepted to NeurIPS 2023: New Frontiers in Graph Learning workshop).
 
 ![](figures/graphs.png)
 
