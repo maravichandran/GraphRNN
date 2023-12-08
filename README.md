@@ -1,6 +1,6 @@
 # Graph Recurrent Neural Networks (GraphRNN)
 
-Authors: Maya Ravichandran, Mark Koch, Nikhil Khatri, Taniya Das
+Authors: Maya Ravichandran, Mark Koch, Taniya Das, Nikhil Khatri (all authors contributed equally)
 
 Reproducibility experiments for the [GraphRNN](https://arxiv.org/abs/1802.08773) model, evaluation on expanded metrics, an ablation of study of breadth-first search traversal, and novel extension for generation of directed acyclic graphs.
 
